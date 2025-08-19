@@ -11,28 +11,24 @@ This is a simple To-Do List application that allows users to add, manage, and fi
 - Sort tasks by dragging and dropping.
 - Persist tasks using local storage.
 
+## 🚀 Live Demo
+[Click here to try the To-Do List App](https://todopg.ccbp.tech/)
 
 ## Usage
-- Open the index.html file in your preferred web browser.
+- Open the `index.html` file in your preferred web browser.
 - Start adding and managing your tasks.
 
-  
 ## File Structure
 to-do-list-app/
-├── index.html
-├── style.css
-├── script.js
-├── README.md
+├── index.html  
+├── style.css  
+├── script.js  
+├── README.md  
 
 ## Code Overview
-index.html
-This is the main HTML file that contains the structure of the To-Do List application.
-
-style.css
-This file contains the CSS styles for the application, providing a clean and modern design.
-
-script.js
-This file contains the JavaScript logic for the application, including functions to add, delete, and filter tasks, as well as handling local storage.
+**index.html** – Main HTML file with structure of the app.  
+**style.css** – CSS file for a clean, modern design.  
+**script.js** – JavaScript logic for adding, deleting, filtering, and persisting tasks.  
 
 ## License
 This project is licensed under the Apache 2.0 License. See the LICENSE file for more details.
